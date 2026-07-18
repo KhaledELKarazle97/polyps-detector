@@ -62,7 +62,7 @@ simple GUI browser for folders of recordings.
 ```
 .
 ├── infer.py              # real-time video inference (CLI) — ONNX Runtime + OpenCV
-├── gui_launcher.py        # Tkinter video browser/launcher — scans a folder tree and runs infer.py per video
+├── main.py        # Tkinter video browser/launcher — scans a folder tree and runs infer.py per video
 ├── LICENSE.md
 └── README.md
 ```
