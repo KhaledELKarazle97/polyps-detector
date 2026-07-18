@@ -29,6 +29,8 @@ If you use this software in your research, please cite:
 }
 ```
 
+![PolyReen Demo](demo-gif.gif)
+
 ---
 
 ## Overview
