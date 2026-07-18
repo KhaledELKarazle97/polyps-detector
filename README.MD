@@ -35,13 +35,13 @@ If you use this software in your research, please cite:
 
 EfficientPolySeg combines:
 
-- **SwiftFormer backbone** — a lightweight 4-stage transformer encoder,
+- **SwiftFormer backbone** - a lightweight 4-stage transformer encoder,
   used via Hugging Face `transformers` to extract multi-scale features.
-- **EPB (Efficient Processing Block)** — multi-dilation convolutions fused
+- **EPB (Efficient Processing Block)** - multi-dilation convolutions fused
   with global context, applied to skip connections.
-- **EEM (Efficient Edge Module)** — depthwise-separable convolutions with
+- **EEM (Efficient Edge Module)** - depthwise-separable convolutions with
   spatial attention to sharpen ambiguous polyp boundaries.
-- **AFR (Adaptive Feature Refinement)** — channel attention with a learnable
+- **AFR (Adaptive Feature Refinement)** - channel attention with a learnable
   residual gate to refine fused features before decoding.
 - **A transposed-convolution decoder** with skip connections at every stage,
   followed by a final refinement block fused with the original input
