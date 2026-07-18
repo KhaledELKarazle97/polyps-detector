@@ -154,7 +154,7 @@ decision-making without appropriate validation and regulatory clearance.
 ## License
 
 This project is licensed under **[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)**
-(Attribution-NonCommercial 4.0 International) — see [LICENSE.md](LICENSE.md)
+(Attribution-NonCommercial 4.0 International), see [LICENSE.md](LICENSE.md)
 for details.
 
 You are free to share and adapt this code for **non-commercial** purposes,
