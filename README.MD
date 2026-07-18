@@ -4,7 +4,7 @@ Real-time polyp segmentation inference on colonoscopy video, using an
 ONNX-exported EfficientPolySeg model (SwiftFormer backbone with efficient
 edge- and context-aware decoder modules). This repository provides a
 command-line inference tool and a GUI video browser/launcher for running
-the model over recorded colonoscopy footage — it does not include training
+the model over recorded colonoscopy footage - it does not include training
 code.
 
 **Model code / training repository:** _link coming soon_
