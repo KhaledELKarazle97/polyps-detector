@@ -1,4 +1,4 @@
-# EfficientPolySeg — Real-Time Video Inference
+# PolyReen - Real-Time Video Inference
 
 Real-time polyp segmentation inference on colonoscopy video, using an
 ONNX-exported EfficientPolySeg model (SwiftFormer backbone with efficient
