@@ -7,6 +7,8 @@ command-line inference tool and a GUI video browser/launcher for running
 the model over recorded colonoscopy footage - it does not include training
 code.
 
+![PolyReen Demo](demo-gif.gif)
+
 **Model code / training repository:** _link coming soon_
 
 If you use this software in your research, please cite:
@@ -28,8 +30,6 @@ If you use this software in your research, please cite:
   issn    = {1746-8094}
 }
 ```
-
-![PolyReen Demo](demo-gif.gif)
 
 ---
 
