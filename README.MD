@@ -197,8 +197,8 @@ For browsing and running inference on a folder of colonoscopy recordings
 without touching the command line:
 
 ```bash
-python gui_launcher.py
-python gui_launcher.py --onnx path/to/model.onnx
+python main.py
+python main.py --onnx path/to/model.onnx
 ```
 
 Point it at any root folder — it recursively finds every video file
